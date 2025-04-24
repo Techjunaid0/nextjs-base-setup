@@ -20,7 +20,7 @@ This an Dashboard base setup for starting MVP
 Clone the project
 
 ```bash
-  git clone https://github.com/habibqureshi/nextjs-base-setup.git
+  git clone https://github.com/Techjunaid0/nextjs-base-setup.git
 ```
 
 Go to the project directory
@@ -46,4 +46,4 @@ Start the server
 ```
 ## Authors
 
-- [@habibqureshi](https://github.com/habibqureshi)
+- [@Techjunaid0](https://github.com/Techjunaid0)
